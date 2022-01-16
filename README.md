@@ -20,7 +20,7 @@ Written using Microsoft Visual Studio.
 ## Algorithm
 
     1. do everything in do-while loop
-		2. greet user and prompt for input of height in inches, weight in pounds, and agr
+		2. greet user and prompt for input of height in inches, weight in pounds, and age
 		3. calculate hat size
 			3a.weight divided by height multiplied by 2.9
 		4. calculate jacket size (chest in inches)
